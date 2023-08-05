@@ -1,0 +1,585 @@
+[
+  {
+    "tableID": 0,
+    "tableName": "Table 1",
+    "tableType": "Regular",
+    "isAvailableForOrder": true,
+    "peopleInTable": 5,
+    "orders": [],
+    "menus": [
+      {
+        "menuID": 1010,
+        "menuName": "All Categories",
+        "categories": [
+          {
+            "categoryID": 6,
+            "categoryName": "Buff MO:MO",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 7,
+            "categoryName": "Veg MO:MO",
+            "price": 110.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 1,
+            "categoryName": "Buff C. MO:MO",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "Veg C. MO:MO",
+            "price": 110.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 3,
+            "categoryName": "Chicken MO:MO",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 4,
+            "categoryName": "Chicken C. MO:MO",
+            "price": 110.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 5,
+            "categoryName": "Kothey MO:MO",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 6,
+            "categoryName": "Buff Chowmein",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 7,
+            "categoryName": "Veg Chowmein",
+            "price": 110.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 1,
+            "categoryName": "Buff C. Chowmein",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "Veg C. Chowmein",
+            "price": 110.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 3,
+            "categoryName": "Chicken Chowmein",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 4,
+            "categoryName": "Chicken C. Chowmein",
+            "price": 110.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 5,
+            "categoryName": "Kothey Chowmein",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 1,
+            "categoryName": "Vanilla",
+            "price": 85.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "Chocolate",
+            "price": 85.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 3,
+            "categoryName": "Strawberry",
+            "price": 85.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 4,
+            "categoryName": "Butter Scotch",
+            "price": 85.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 5,
+            "categoryName": "Rose",
+            "price": 85.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 1,
+            "categoryName": "C.Fried Rice",
+            "price": 140.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "V.Fried Rice",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 3,
+            "categoryName": "B.Fried Rice",
+            "price": 140.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 4,
+            "categoryName": "Egg Fried Rice",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 5,
+            "categoryName": "NUts Fried Rice",
+            "price": 140.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 1,
+            "categoryName": "C.Thakali",
+            "price": 140.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "V.Thakali",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 3,
+            "categoryName": "F.Thakali",
+            "price": 140.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 1,
+            "categoryName": "Chef Special C.",
+            "price": 140.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "Chef Special V.",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 3,
+            "categoryName": "Chef Special B.",
+            "price": 140.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 4,
+            "categoryName": "Chef Special E.",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 5,
+            "categoryName": "Chef Special F.",
+            "price": 140.0,
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "menuID": 1001,
+        "menuName": "MO:MO",
+        "categories": [
+          {
+            "categoryID": 6,
+            "categoryName": "Buff MO:MO",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 7,
+            "categoryName": "Veg MO:MO",
+            "price": 110.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 1,
+            "categoryName": "Buff C. MO:MO",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "Veg C. MO:MO",
+            "price": 110.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 3,
+            "categoryName": "Chicken MO:MO",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 4,
+            "categoryName": "Chicken C. MO:MO",
+            "price": 110.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 5,
+            "categoryName": "Kothey MO:MO",
+            "price": 120.0,
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "menuID": 1004,
+        "menuName": "Chowmein",
+        "categories": [
+          {
+            "categoryID": 6,
+            "categoryName": "Buff Chowmein",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 7,
+            "categoryName": "Veg Chowmein",
+            "price": 110.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 1,
+            "categoryName": "Buff C. Chowmein",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "Veg C. Chowmein",
+            "price": 110.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 3,
+            "categoryName": "Chicken Chowmein",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 4,
+            "categoryName": "Chicken C. Chowmein",
+            "price": 110.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 5,
+            "categoryName": "Kothey Chowmein",
+            "price": 120.0,
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "menuID": 1002,
+        "menuName": "Ice-Cream",
+        "categories": [
+          {
+            "categoryID": 1,
+            "categoryName": "Vanilla",
+            "price": 85.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "Chocolate",
+            "price": 85.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 3,
+            "categoryName": "Strawberry",
+            "price": 85.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 4,
+            "categoryName": "Butter Scotch",
+            "price": 85.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 5,
+            "categoryName": "Rose",
+            "price": 85.0,
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "menuID": 1003,
+        "menuName": "Fried Rice",
+        "categories": [
+          {
+            "categoryID": 1,
+            "categoryName": "C.Fried Rice",
+            "price": 140.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "V.Fried Rice",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 3,
+            "categoryName": "B.Fried Rice",
+            "price": 140.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 4,
+            "categoryName": "Egg Fried Rice",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 5,
+            "categoryName": "NUts Fried Rice",
+            "price": 140.0,
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "menuID": 1005,
+        "menuName": "Thakali Set",
+        "categories": [
+          {
+            "categoryID": 1,
+            "categoryName": "C.Thakali",
+            "price": 140.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "V.Thakali",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 3,
+            "categoryName": "F.Thakali",
+            "price": 140.0,
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "menuID": 1006,
+        "menuName": "Chef's Specials",
+        "categories": [
+          {
+            "categoryID": 1,
+            "categoryName": "Chef Special C.",
+            "price": 140.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "Chef Special V.",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 3,
+            "categoryName": "Chef Special B.",
+            "price": 140.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 4,
+            "categoryName": "Chef Special E.",
+            "price": 120.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 5,
+            "categoryName": "Chef Special F.",
+            "price": 140.0,
+            "quantity": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tableID": 1,
+    "tableName": "Table 2",
+    "tableType": "VIP",
+    "isAvailableForOrder": false,
+    "peopleInTable": 8,
+    "orders": [
+      {
+        "orderID": 201,
+        "orderName": "Paneer Tikka",
+        "orderQuantity": 2,
+        "orderPrice": 350.0
+      }
+    ],
+    "menus": [
+      {
+        "menuID": 2002,
+        "menuName": "All Categories",
+        "categories": [
+          {
+            "categoryID": 1,
+            "categoryName": "Butter Chicken",
+            "price": 400.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "Butter Naan",
+            "price": 60.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 1,
+            "categoryName": "Plain Naan",
+            "price": 400.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "Tandoori Roti",
+            "price": 60.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 1,
+            "categoryName": "Chicken Tikka",
+            "price": 400.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "Sahi Paneer",
+            "price": 60.0,
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "menuID": 2001,
+        "menuName": "Indian Cuisine",
+        "categories": [
+          {
+            "categoryID": 1,
+            "categoryName": "Butter Chicken",
+            "price": 400.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "Butter Naan",
+            "price": 60.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 1,
+            "categoryName": "Plain Naan",
+            "price": 400.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "Tandoori Roti",
+            "price": 60.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 1,
+            "categoryName": "Chicken Tikka",
+            "price": 400.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "Sahi Paneer",
+            "price": 60.0,
+            "quantity": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "tableID": 2,
+    "tableName": "Table 3",
+    "tableType": "Roof Top",
+    "isAvailableForOrder": true,
+    "peopleInTable": 2,
+    "orders": [],
+    "menus": [
+      {
+        "menuID": 3002,
+        "menuName": "All Categories",
+        "categories": [
+          {
+            "categoryID": 1,
+            "categoryName": "Chicken Alfredo",
+            "price": 380.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "Penne Alla Vodka",
+            "price": 450.0,
+            "quantity": 0
+          }
+        ]
+      },
+      {
+        "menuID": 3001,
+        "menuName": "Pasta",
+        "categories": [
+          {
+            "categoryID": 1,
+            "categoryName": "Chicken Alfredo",
+            "price": 380.0,
+            "quantity": 0
+          },
+          {
+            "categoryID": 2,
+            "categoryName": "Penne Alla Vodka",
+            "price": 450.0,
+            "quantity": 0
+          }
+        ]
+      }
+    ]
+  }
+]
