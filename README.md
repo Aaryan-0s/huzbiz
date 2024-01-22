@@ -1,6 +1,6 @@
 # huzbiz_app
 
-A new Flutter project.
+A  hotel food order recieving  flutter applciation.
 
 ## Getting Started
 
