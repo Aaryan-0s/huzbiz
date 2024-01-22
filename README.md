@@ -1,4 +1,4 @@
-# huzbiz_demo_app
+# huzbiz_app
 
 A new Flutter project.
 
